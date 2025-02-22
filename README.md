@@ -1,4 +1,4 @@
-# Sarvesh Job Portal
+# Online Job Portal
 
 [Visit Live Project](https://online-job-portal-o1cv.onrender.com)
 
